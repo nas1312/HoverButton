@@ -16,15 +16,15 @@ button{
     font-weight: 800;
     background: #8C262E;
     color: #151b29;
-    border: 2px solid;
-    padding: 0.7em 2em;
+    border: 3px solid;
+    padding: 0.8em 2em;
     transition: all 0.30s;
 }
 button:hover{
     background: none;
     border-color: #8C262E;
     color: #F23D4C;
-    font-size: 82%;
+    font-size: 85%;
     box-shadow: 0 0.5em 0.5em -0.4em #F23D4C ;
     transform: translateY(-0.35em);
 }
